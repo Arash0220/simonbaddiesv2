@@ -105,3 +105,4 @@ function endGame() {
   level = 0;
   levelDisplay.textContent = `Level: ${level}`;
 }
+//  to edit to add more game functions, audio ( to completely test out the baddeley memoriess)
